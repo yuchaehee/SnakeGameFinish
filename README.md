@@ -1,1 +1,1 @@
-# SnakeGameFinish
+# Snake-game
